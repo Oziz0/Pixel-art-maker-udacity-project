@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
  This project is part of Udacity Intro to Programming Nanodegree Program.
- This was created using 
+ This project was created using 
 •Java script Dom
 •HTML
 •CSS
